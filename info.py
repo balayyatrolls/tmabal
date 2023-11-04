@@ -21,9 +21,9 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "6683383291:AAHZUzKhmPdGiu_lpzyL-6qWD40gCyI
 CACHE_TIME = int(environ.get('CACHE_TIME', 180))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
-PICS = (environ.get('PICS', 'https://telegra.ph/file/b6f42af4d20b757b46d73.jpg https://telegra.ph/file/f514edecba0f6c1ef3418.jpg https://telegra.ph//file/797fcafb53479875e2bc7.jpg')).split() #SAMPLE PIC
+PICS = (environ.get('PICS', 'https://telegra.ph/file/a389938ee07bba84850c0.jpg')).split() #SAMPLE PIC
 NOR_IMG = environ.get("NOR_IMG", "https://telegra.ph/file/b6f42af4d20b757b46d73.jpg")
-MELCOW_VID = environ.get("MELCOW_VID", "https://tma.tmanetwork.workers.dev/0:/video_2023-08-20_20-06-16_7269498453388052480.mp4")
+MELCOW_VID = environ.get("MELCOW_VID", "")
 SPELL_IMG = environ.get("SPELL_IMG", "https://te.legra.ph/file/15c1ad448dfe472a5cbb8.jpg")
 
 # Admins, Channels & Users
