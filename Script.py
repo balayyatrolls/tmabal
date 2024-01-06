@@ -6,8 +6,8 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>,ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
-<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/Squadadminbot>☢ Owner Of Squad Originals ☢</a></b>
-<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/squadoriginals>Squad Originals👾</a></b>
+<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/BTadminn_bot>☢ Owner Of BalayyaTrolls ☢</a></b>
+<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/bt_files>Balayya Trolls👾</a></b>
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>"""
 
     SOURCE_TXT = """
@@ -15,9 +15,9 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
 ​🇹​ʜɪ​🇸​ ​🇧​ᴏᴛ ʜᴀ​🇸​ ​🇱​ᴀᴛᴇ​🇸​ᴛ ᴀɴᴅ ​🇦​ᴅᴠᴀɴᴄᴇᴅ ​🇫​ᴇᴀᴛᴜʀᴇ​🇸​⚡️
 
-​🇼​ᴀɴᴛ ᴛʜɪ​🇸​ ​🇧​ᴏᴛ ​🇷​ᴇᴘᴏ? - <​🇦​ ​🇭​​🇷​​🇪​​🇫​=❜​🇭​​🇹​​🇹​​🇵​​🇸​⦂//​🇹​.​🇲​​🇪​/​​Squadadminbot​❜>​🇨​​🇴​​🇳​​🇹​​🇦​​🇨​​🇹​ ​🇴​​🇼​​🇳​​🇪​​🇷​</​🇦​></​🇧​> 🙃</​🇧​>
+​🇼​ᴀɴᴛ ᴛʜɪ​🇸​ ​🇧​ᴏᴛ ​🇷​ᴇᴘᴏ? - <​🇦​ ​🇭​​🇷​​🇪​​🇫​=❜​🇭​​🇹​​🇹​​🇵​​🇸​⦂//​🇹​.​🇲​​🇪​/​​BTadminn_bot​❜>​🇨​​🇴​​🇳​​🇹​​🇦​​🇨​​🇹​ ​🇴​​🇼​​🇳​​🇪​​🇷​</​🇦​></​🇧​> 🙃</​🇧​>
 
-​🇲​ᴏʀᴇ ​🇮​ɴғᴏ ​🇦​ʙᴏᴜᴛ ᴛʜɪ​🇸​ ​🇧​​🇴​​🇹​- <​🇦​ ​🇭​​🇷​​🇪​​🇫​=❜​🇭​​🇹​​🇹​​🇵​​🇸​⦂//​🇹​.​🇲​​🇪​/​squadoriginals​>ᴅᴏᴜʙʟᴇ ᴛᴀᴘ</a></b>
+​🇲​ᴏʀᴇ ​🇮​ɴғᴏ ​🇦​ʙᴏᴜᴛ ᴛʜɪ​🇸​ ​🇧​​🇴​​🇹​- <​🇦​ ​🇭​​🇷​​🇪​​🇫​=❜​🇭​​🇹​​🇹​​🇵​​🇸​⦂//​🇹​.​🇲​​🇪​/​bt_files​>ᴅᴏᴜʙʟᴇ ᴛᴀᴘ</a></b>
 """
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
@@ -39,7 +39,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/SquadOriginals)</code>
+<code>[Button Text](buttonurl:https://t.me/bt_files)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -184,8 +184,8 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
     CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
 ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
-▫️<a href=https://t.me/SquadOriginals> ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ </a>
-▫️<a href=https://t.me/squad_request> ʀᴇǫᴜᴇsᴛ ᴍᴏᴠɪᴇs​ </a>
+▫️<a href=https://t.me/bt_files> ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ </a>
+▫️<a href=https://t.me/bt_request> ʀᴇǫᴜᴇsᴛ ᴍᴏᴠɪᴇs​ </a>
 ╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>""" 
 
     IMDB_TEMPLATE_TXT = """
